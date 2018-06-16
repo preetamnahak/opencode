@@ -1,1 +1,1 @@
-This is a web project for a technical club of NITR named OPENCODE. 
+This is a web project about the website for a technical club of NITR named OPENCODE. 
